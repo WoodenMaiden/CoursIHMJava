@@ -1,13 +1,13 @@
 class: center, middle
 
 # Les IHM et le langage Java
-### Henri GARRETA & Cyril PAIN-BARRE & Sébastien NEDJAR (MCF AMU) 
+### Henri GARRETA & Cyril PAIN-BARRE & Sébastien NEDJAR 
 ![IUT](logo.png)
 ---
 
 class: center, middle
 
-# Cours 5: JavaFX
+# Cours 3: JavaFX
 ---
 class: center, middle
 
@@ -814,5 +814,4 @@ contrôleur et l'associer dans le code du programme, avant le chargement du fich
       ```
 - Dans ce cas, il n'est pas nécessaire de déclarer le contrôleur dans le
 fichier FXML (`fx:controller="..."`).
----
 

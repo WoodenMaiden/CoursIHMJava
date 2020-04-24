@@ -1,13 +1,13 @@
 class: center, middle
 
 # Les IHM et le langage Java
-### Henri GARRETA & Cyril PAIN-BARRE & Sébastien NEDJAR (MCF AMU) 
+### Henri GARRETA & Cyril PAIN-BARRE & Sébastien NEDJAR 
 ![IUT](logo.png)
 ---
 
 class: center, middle
 
-# Cours 4: JavaFX
+# Cours 2: JavaFX
 ---
 # Historique
 - A l'origine du langage Java, les interfaces graphiques étaient créées
@@ -159,11 +159,11 @@ utilisateurs) de différentes manières :
 
 - Parmi les principaux (et les plus dynamiques) on peut mentionner :
 
-    - **[ControlsFX](http://fxexperience.com/controlsfx/)** : Projet open-source destiné à offrir des composants supplémentaires de qualité
+    - **[ControlsFX](https://github.com/controlsfx/controlsfx)** : Projet open-source destiné à offrir des composants supplémentaires de qualité
 
     - **[JFXtras](http://jfxtras.org/)** : Projet open-source destiné à fournir aux développeurs des éléments utiles dans leur vie de tous les jours et qui manquent dans la version de base de JavaFX
 
-    - **[DataFX](http://www.javafxdata.org/)** : Projet open-source destiné à faciliter la collaboration entre une application JavaFX et un système de gestion des données (BD, …)
+    - **[DataFX](https://bitbucket.org/datafx/datafx/src/default/README.md)** : Projet open-source destiné à faciliter la collaboration entre une application JavaFX et un système de gestion des données (BD, …)
 
     - **[TestFX](https://github.com/TestFX)** : Librairie pour automatiser le test des applications JavaFX
     
@@ -176,9 +176,9 @@ Quelques références web utiles :
  
  - Autre [blog dédié](http://guigarage.com) à différentes thématiques JavaFX
  
- - Communauté des développeurs du projet open-source [OpenFJX](http://javafxcommunity.com) (qui est un sous-projet de OpenJDK)
+ - Communauté des développeurs du projet open-source [OpenFJX](https://openjfx.io/) (qui est un sous-projet de OpenJDK)
  
- - [API JavaFX (Javadoc)](http://docs.oracle.com/javase/8/javafx/api)
+ - [API JavaFX (Javadoc)](https://openjfx.io/javadoc/11/)
 ---
 # Références
 Quelques livres :

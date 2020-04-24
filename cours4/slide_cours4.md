@@ -1,32 +1,13 @@
 class: center, middle
 
 # Les IHM et le langage Java
-### Henri GARRETA & Cyril PAIN-BARRE & Sébastien NEDJAR (MCF AMU) 
+### Henri GARRETA & Cyril PAIN-BARRE & Sébastien NEDJAR 
 ![IUT](logo.png)
----
-
-# À propos
-- Sébastien NEDJAR (@nedseb)
-
-![nedseb au travail](chemestrycat.jpg)
----
-
-# À propos
-- Sébastien NEDJAR (@nedseb)
-    + Maître de conférences au Département Info de l'IUT  d'Aix. Enseignant spécialiste des Bases de données et chercheur en OLAP Mining au LIF.
-
-    + Membre fondateur du Fab Lab Provence et du Laboratoire d'Aixpérimentation et de Bidouille.
-    
-    + Co-animateur de l'ICSTUG #iutagile.
-
-    + Co-Organisateur des rencontres Beyond Lab.
-    
-    + Et bien d'autres activités étranges (pour avoir plus de détails faire une psychanalyse d'un étudiant m'ayant subi).
 ---
 
 class: center, middle
 
-# Cours 2: Java et l'héritage
+# Cours 4: Java et l'héritage
 ---
 
 # Héritage : la problématique
