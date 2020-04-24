@@ -1,27 +1,13 @@
 class: center, middle
-
 # Les IHM et le langage Java
 ### Henri GARRETA & Cyril PAIN-BARRE & Sébastien NEDJAR (MCF AMU) 
 ![IUT](logo.png)
 ---
 
-# À propos
-- Sébastien NEDJAR (@nedseb)
+class: center, middle
 
-![nedseb au travail](chemestrycat.jpg)
----
-
-# À propos
-- Sébastien NEDJAR (@nedseb)
-    + Maître de conférences au Département Info de l'IUT  d'Aix. Enseignant spécialiste des Bases de données et chercheur en OLAP Mining au LIF.
-
-    + Membre fondateur du Fab Lab Provence et du Laboratoire d'Aixpérimentation et de Bidouille.
-    
-    + Co-animateur de l'ICSTUG #iutagile.
-
-    + Co-Organisateur des rencontres Beyond Lab.
-    
-    + Et bien d'autres activités étranges (pour avoir plus de détails faire une psychanalyse d'un étudiant m'ayant subi).
+# Pour me joindre : 
+# sophie.nabitz@univ-avignon.fr
 ---
 
 class: center, middle
@@ -35,9 +21,9 @@ class: center, middle
 - [www.oracle.com/technetwork/java](http://www.oracle.com/technetwork/java) : logiciels, et documentation, dont :
     + [JRE (Java Runtime Environment)](http://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html) : machine virtuelle java (JVM) + bibliothèques, ce qu'il faut pour exécuter les programmes Java.
 
-    + [JDK (Java Development Kit)](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html) : compilateur et outils de développement en Java - contient le JRE.
+    + [JDK (Java Development Kit)](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html) : compilateur et outils de développement en Java - contient le JRE.
 
-    + [docs.oracle.com/javase/8/docs/api](http://docs.oracle.com/javase/8/docs/api/) :  la documentation en ligne des API de la plateforme Java SE.
+    + [docs.oracle.com/en/java/javase/11/docs/api/](https://docs.oracle.com/en/java/javase/11/docs/api/) :  la documentation en ligne des API de la plateforme Java SE.
 - Des IDE modernes pour vous faciliter la tache et vous faire gagner du temps : [Eclipse](https://eclipse.org/downloads/), [Netbeans](https://netbeans.org/downloads/), [IntelliJ IDEA](https://www.jetbrains.com/idea/), ...
 
 - [h.garreta.free.fr/](http://h.garreta.free.fr/) : diverses ressources, dont : "[Le langage Java](http://h.garreta.free.fr/polys/PolyJava.pdf)" (Poly très complet écrit par Henri Garreta).
@@ -52,7 +38,8 @@ class: center, middle
 
 - comportement : implémenté par un ensemble de fonctions membres ou **méthodes d'instance**
 
-- une classe est la description d'**objets** de même type, les **instances de la classe**
+- une 
+- classe est la description d'**objets** de même type, les **instances de la classe**
 
 - il y a aussi des données et des fonctions non attachées aux objets :
     + les données membres `static` ou **variables de classe**
@@ -988,4 +975,3 @@ public final class Point {
 - "[A]nd then it occurred to me that a computer is a stupid machine with the ability to do incredibly smart things, while computer programmers are smart people with the ability to do incredibly stupid things. They are, in short, a perfect match."
  
  Bill Bryson
----
